@@ -1,3 +1,6 @@
-# mediakougaku
-メディア工学特論講義
-プルリクエストテスト用
+# plusコマンド
+
+![test](https://github.com/Shuto15/mediakougaku/actions/workflows/test.yml/badge.svg)
+
+メディア工学特論講義練習用
+標準入力から読み込んだ数字を足す。
